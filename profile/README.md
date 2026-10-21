@@ -1,4 +1,4 @@
-<p align="center"><a href="https://sprintspaces.github.io/"><img src="https://sprintspaces.github.io/assets/wordmark.png" width="350" alt="SprintSpaces"></a></p>
+<p align="center"><a href="https://sprintspaces.github.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://sprintspaces.github.io/assets/wordmark-white.png"><source media="(prefers-color-scheme: light)" srcset="https://sprintspaces.github.io/assets/wordmark.png"><img src="https://sprintspaces.github.io/assets/wordmark.png" width="350" alt="SprintSpaces"></picture></a></p>
 
 <h3 align="center">Przestrzeń na dobrą pracę.</h3>
 <p align="center">Projekty, zadania i zgłoszenia w jednej przestrzeni.<br>Polski interfejs. Wasze procesy. Dane, które już macie.</p>
